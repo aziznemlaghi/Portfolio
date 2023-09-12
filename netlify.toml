@@ -1,0 +1,3 @@
+[build]
+command = "npm run build"  # Change this to your build script if needed
+publish = "index.html"  # Change this to the directory with your HTML and CSS files
